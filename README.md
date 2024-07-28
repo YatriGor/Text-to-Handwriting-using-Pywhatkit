@@ -15,15 +15,6 @@ This project demonstrates how to convert text into a handwriting-style image usi
 
 To run this script, you need to have Python 3.6 or higher installed on your machine. Additionally, you need to install the `pywhatkit` library, which can be easily done using pip.
 
-## Installation
-
-1. Clone the repository to your local machine.
-2. Install the `pywhatkit` library using pip:
-   
-    ```bash
-    pip install pywhatkit
-    ```
-
 ## Usage
 
 This script is ideal for creating personalized notes or adding a creative touch to your projects by converting text into a handwriting-style image. Simply customize the text and run the script to generate your own handwriting-style images.
