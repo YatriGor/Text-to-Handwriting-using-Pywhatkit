@@ -19,6 +19,7 @@ To run this script, you need to have Python 3.6 or higher installed on your mach
 
 1. Clone the repository to your local machine.
 2. Install the `pywhatkit` library using pip:
+   
     ```bash
     pip install pywhatkit
     ```
